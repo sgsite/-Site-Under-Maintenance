@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Site Temporarily Down</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 50px; background: #f0f0f0; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>🚧 Site Under Maintenance</h1>
+  <p>We're currently fixing things up. Please check back soon.</p>
+</body>
+</html>
